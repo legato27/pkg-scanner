@@ -1,0 +1,25 @@
+# Development files
+.next/
+.git/
+.github/
+node_modules/
+db/scanner.db
+db/scanner.db-shm
+db/scanner.db-wal
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+.env*
+.claude/
+CLAUDE.md
+AGENTS.md
