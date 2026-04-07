@@ -8,6 +8,18 @@ Scans all installed packages across Homebrew, npm, pip, Cargo, and RubyGems — 
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18-green.svg)](https://nodejs.org/)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg)]()
 
+### Dashboard Overview
+![Dashboard Overview](docs/screenshots/01-dashboard-overview.png)
+
+### Package Inventory with Trust Scores
+![Packages List](docs/screenshots/02-packages-list.png)
+
+### Vulnerability Deep Dive (nokogiri — 10 CVEs)
+![Nokogiri Vulnerabilities](docs/screenshots/04-nokogiri-vulns.png)
+
+### Scan Controls
+![Scan Page](docs/screenshots/03-scan-page.png)
+
 ---
 
 ## The Problem: Your Machine is a Supply Chain
